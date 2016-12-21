@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"module": "umd",
+		"target": "es6",
+		"noImplicitAny": true,
+		"outDir": "./"
+	},
+	"files": [
+		"src/index.ts"
+	]
+}
