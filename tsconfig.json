@@ -1,12 +1,12 @@
 {
 	"compilerOptions": {
 		"declaration": true,
-		"module": "umd",
+		"module": "commonjs",
 		"target": "es6",
 		"noImplicitAny": true,
 		"outDir": "./"
 	},
 	"files": [
-		"src/index.ts"
+		"./index.ts"
 	]
 }

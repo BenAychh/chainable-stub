@@ -1,4 +1,4 @@
 node_modules/
 *.d.ts
-
+index.ts
 !index.d.ts
