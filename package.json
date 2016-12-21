@@ -1,6 +1,6 @@
 {
   "name": "chainable-stub",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A chainable spy/stub for mocking out things like d3",
   "main": "index.js",
   "scripts": {
