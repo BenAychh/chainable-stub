@@ -1,0 +1,31 @@
+{
+  "name": "chainable-stub",
+  "version": "1.0.0",
+  "description": "A chainable spy/stub for mocking out things like d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine index.spec.js"
+  },
+  "keywords": [
+    "chain",
+    "chainable",
+    "stub",
+    "spy"
+  ],
+  "author": "Ben Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^1.17.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenAychh/chainable-stub.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
